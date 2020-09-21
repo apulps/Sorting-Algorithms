@@ -1,4 +1,9 @@
 def selection_sort(array):
+    """
+    Selection sort
+
+    Complexity -> O(n^2)
+    """
     n = len(array)
     i = 0
 

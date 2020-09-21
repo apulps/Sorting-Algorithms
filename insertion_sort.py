@@ -1,4 +1,9 @@
 def insertion_sort(array):
+    """
+    Insertion sort
+
+    Complexity -> O(n^2)
+    """
     n = len(array)
 
     for i in range(1, n):
