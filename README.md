@@ -1,7 +1,7 @@
 # Sorting Algorithms
 
-[![Build Status](https://travis-ci.org/apulps/LeetCode.svg?branch=main)](https://travis-ci.org/apulps/LeetCode)
-[![codecov](https://codecov.io/gh/apulps/LeetCode/branch/main/graph/badge.svg?token=Z1HVDYQSHT)](https://codecov.io/gh/apulps/LeetCode)
+[![Build Status](https://travis-ci.org/apulps/Sorting-Algorithms.svg?branch=master)](https://travis-ci.org/apulps/Sorting-Algorithms)
+[![codecov](https://codecov.io/gh/apulps/Sorting-Algorithms/branch/master/graph/badge.svg?token=VSE7YR6LM2)](https://codecov.io/gh/apulps/Sorting-Algorithms)
 
 ### Bubble sort
 <img src="animations/bubble_sort.gif" width="450" height="250"/>
